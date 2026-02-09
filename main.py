@@ -98,7 +98,6 @@ def ataque_diccionario_vigenere(texto):
 
 def main():
     while True:
-        print("\n" + "=" * 35)
         print("   SISTEMA DE CIFRADO CIBERPOLLO")
         print("=" * 35)
         print("1. Cifrado César")
